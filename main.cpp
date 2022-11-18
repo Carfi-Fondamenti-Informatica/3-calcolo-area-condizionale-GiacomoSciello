@@ -18,7 +18,7 @@ int main() {
          break;
       case 2:
          cout << a*b;
-         break
+         break;
       default:
          cout << "opzione non valida";
    }      
